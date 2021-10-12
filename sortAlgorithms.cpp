@@ -166,7 +166,11 @@ void heapSort(vector<int>& nums) {
 //bucketSort
 
 
-//计数排序
+//计数排序,类似基数排序
+//需知道排序数组的范围
+void bucketSort() {
+
+}
 
 
 //radixSort 基数排序
